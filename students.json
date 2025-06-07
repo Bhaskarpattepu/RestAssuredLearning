@@ -1,0 +1,99 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "location": "US",
+      "phone": "98876543213",
+      "courses": [
+        "Python",
+        "Appium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "165498765",
+      "courses": [
+        "C#",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "d03a",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "123456",
+      "name": "Scott",
+      "location": "France"
+    },
+    {
+      "id": "3642",
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "a3dd",
+      "students": [
+        {
+          "courses": [
+            "Java",
+            "Selenium"
+          ],
+          "phone": "1234567890",
+          "name": "John",
+          "location": "india",
+          "id": "1"
+        },
+        {
+          "courses": [
+            "Python",
+            "Appium"
+          ],
+          "phone": "98876543213",
+          "name": "Kim",
+          "location": "US",
+          "id": "2"
+        },
+        {
+          "courses": [
+            "C#",
+            "RestAPI"
+          ],
+          "phone": "165498765",
+          "name": "Smith",
+          "location": "Canada",
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "id": "5b77",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "123456",
+      "name": "Scott",
+      "location": "Frnace"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "store" :{
+  "book": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "price": 450.00,
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "The Pragmatic Programmer",
+      "author": "Andy Hunt",
+      "genre": "Software Engineering",
+      "price": 499.99,
+      "available": true
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "genre": "Algorithms",
+      "price": 650.50,
+      "available": false
+    },
+    {
+      "id": 4,
+      "title": "Design Patterns",
+      "author": "Erich Gamma",
+      "genre": "Architecture",
+      "price": 530.00,
+      "available": true
+    },
+    {
+      "id": 5,
+      "title": "You Don’t Know JS",
+      "author": "Kyle Simpson",
+      "genre": "JavaScript",
+      "price": 300.00,
+      "available": false
+    }
+  ]
+}
+}
